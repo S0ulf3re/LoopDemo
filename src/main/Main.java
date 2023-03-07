@@ -21,7 +21,7 @@ class InputHandler {
     }
 
     public int fullyValidatedIndexNumber() {
-        System.out.println("");
+        System.out.println("") ;
     }
 }
 class Name {
